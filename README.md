@@ -16,6 +16,7 @@ Throughout the development process, we encountered several challenges and worked
 
 <img width="505" alt="Screenshot 2023-07-09 at 19 58 01" src="https://github.com/brunoarnuti/WangTilesAlgorithm/assets/61336603/21e29df5-2671-4f6e-b444-af1853a60da6">
 
+
 🌐 Potential Implementations
 
 The Wang Tile Algorithm opens up a world of possibilities for various applications. With this implementation as a foundation, you can explore its potential in procedural 2D grid map generation, artistic designs, texture synthesis, and more. The algorithm's versatility allows for endless creativity and experimentation, making it an exciting tool for both artists and developers.
