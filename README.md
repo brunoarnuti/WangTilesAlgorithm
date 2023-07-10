@@ -16,15 +16,15 @@ These tiles have found various applications in computer science, especially in c
 The first implementation uses a custom set of rules to create large blocks of tiles. Each tile (represented by 'A', 'B', 'C', 'D') has a designated color. The placement rules ensure that each tile only connects with specific other tiles, maintaining the seamless nature of the grid. If we were using tillable textures for A, B, C and D, themselves, large blocks of the same texture would make sense since it would be like a patch of the same tile, but not for the same tile for the entire map.
 
 <img width="504" alt="Screenshot 2023-07-09 at 23 55 51" src="https://github.com/brunoarnuti/WangTilesAlgorithm/assets/61336603/a0c4ffb8-04f9-41b4-82d7-c868ebea553d">
-#
-#
+
+
 #### Stochastic Wang Tiles 🎲
 
 While the first implementation yielded visually pleasing results, I observed the patterns became too predictable over time. Real-world patterns have a degree of randomness that was missing in the large blocks. 
 
 <img width="505" alt="Screenshot 2023-07-09 at 23 55 15" src="https://github.com/brunoarnuti/WangTilesAlgorithm/assets/61336603/79920486-41e4-4dd8-a2e3-e19626e9a89a">
-#
-#
+
+
 ### Stochastic Wang Tiles - Adding a Dash of Randomness 🎲
 
 It introduces an element of stochasticity to the Wang Tiles, making the output less predictable and more varied. We devised a modified set of Wang tile rules, but this time with a twist: there's a small chance of breaking these rules!
