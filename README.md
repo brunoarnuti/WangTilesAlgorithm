@@ -13,7 +13,7 @@ These tiles have found various applications in computer science, especially in c
 ### Our Implementations 💻
 
 #### Block Pattern Wang Tiles 💠
-The first implementation uses a custom set of rules to create large blocks of tiles. Each tile (represented by 'A', 'B', 'C', 'D') has a designated color. The placement rules ensure that each tile only connects with specific other tiles, maintaining the seamless nature of the grid. If we were using tillable textures for A, B, C and D, themselves, large blocks of the same texture would make sense since it would be like a patch of the same tile, but not for the same tile for the entire map.
+The first implementation uses a custom set of rules to create large blocks of tiles. Each tile (represented by 'A', 'B', 'C', 'D') has a designated color. The placement rules ensure that each tile only connects with specific other tiles, maintaining the seamless nature of the grid. If we were using tillable textures for A, B, C and D, themselves, large blocks of the same texture would make sense since it would be like a patch of the same tile, but far better and diverse than using the same tile repeated for the entire map.
 
 <img width="504" alt="Screenshot 2023-07-09 at 23 55 51" src="https://github.com/brunoarnuti/WangTilesAlgorithm/assets/61336603/a0c4ffb8-04f9-41b4-82d7-c868ebea553d">
 
