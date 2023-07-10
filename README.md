@@ -42,12 +42,12 @@ With four distinct, tileable textures (A, B, C, D) I had created using Midjourne
 Here are the four distinct textures that I needed to arrange in a grid, which led me to discover the algorithmic solution.
 
 <div align="center">
-    <img src="./images/image1.jpg" width="300" height="300">
-    <img src="./images/image2.jpg" width="300" height="300">
+    <img src="./images/1.png" width="300" height="300">
+    <img src="./images/2.png" width="300" height="300">
 </div>
 <div align="center">
-    <img src="./images/image3.jpg" width="300" height="300">
-    <img src="./images/image4.jpg" width="300" height="300">
+    <img src="./images/3.png" width="300" height="300">
+    <img src="./images/4.png" width="300" height="300">
 </div>
 
 
