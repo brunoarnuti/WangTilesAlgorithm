@@ -39,16 +39,17 @@ Here's how the quest for seamless, diverse game backgrounds led me to the Wang T
 
 With four distinct, tileable textures (A, B, C, D) I had created using Midjourney in hand, I was determined to create an engaging environment for my RTS prototype game. However, connecting them seamlessly and avoiding unwanted patterns, like large squares or more than two consecutive same textures, required a smart, algorithmic solution.
 
-Here are the 4 distinct textures that insired me to find that algorithmic solution. 
+Here are the four distinct textures that I needed to arrange in a grid, which led me to discover the algorithmic solution.
 
 <div align="center">
-    <img src="https://github.com/brunoarnuti/WangTilesAlgorithm/raw/main/assets/61336603/51bc3c91-4f22-4cde-a1f4-12516dbaa2fc" width="300" height="300">
-    <img src="https://github.com/brunoarnuti/WangTilesAlgorithm/raw/main/assets/61336603/1c542721-2d39-4cdb-8b27-4558e91409f8" width="300" height="300">
+    <img src="./images/image1.jpg" width="300" height="300">
+    <img src="./images/image2.jpg" width="300" height="300">
 </div>
 <div align="center">
-    <img src="https://github.com/brunoarnuti/WangTilesAlgorithm/raw/main/assets/61336603/1dd97568-37fb-4c19-aaff-9eb01fc0f3b9" width="300" height="300">
-    <img src="https://github.com/brunoarnuti/WangTilesAlgorithm/raw/main/assets/61336603/d195cdae-4ed7-47d0-84a9-d156917b4311" width="300" height="300">
+    <img src="./images/image3.jpg" width="300" height="300">
+    <img src="./images/image4.jpg" width="300" height="300">
 </div>
+
 
 ## Wrapping Up 🎁
 
